@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3brrrg36cx186p8C6ewhCNFU29RiNT8x5gR/FQ0yCBqkZeaR836B0l60pZ9hYMek+gNIReUDp4VHAjHw3ZqAcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Yen\\Personal\\Code\\Generics\\WiredBrainCoffee.StorageApp\\WiredBrainCoffee.StorageApp\\WiredBrainCoffee.StorageApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
