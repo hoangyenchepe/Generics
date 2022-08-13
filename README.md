@@ -1,3 +1,5 @@
+Learn by Thomas Claudius Huber
+
 Why use the generics
 + Code reuse
 + Type safety
