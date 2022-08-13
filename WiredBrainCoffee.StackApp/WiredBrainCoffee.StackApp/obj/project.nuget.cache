@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKWpOYWoflGEa/i5NF5R8ogEiD+06s7Ubd3YEtejBZ++4eS/wk74TRJUGjp+NHaLGjMAymAnkb+EUKRbHwpfmA==",
+  "success": true,
+  "projectFilePath": "C:\\Yen\\Personal\\Code\\Generics\\WiredBrainCoffee.StackApp\\WiredBrainCoffee.StackApp\\WiredBrainCoffee.StackApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
