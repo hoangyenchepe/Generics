@@ -7,3 +7,6 @@ Why use the generics
 
 
 ![image](https://user-images.githubusercontent.com/22677953/184493573-07a89bf7-d97b-4516-9aea-e4773d9c9e42.png)
+
+
+![image](https://user-images.githubusercontent.com/22677953/184534888-3516ad5c-f408-426a-821d-6b4a75e849c6.png)
