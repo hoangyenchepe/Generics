@@ -16,6 +16,7 @@ namespace WiredBrainCoffee.StorageApp.Responsitories
 
         public void Add(T item)
         {
+            item.Id = _items.Count + 1;
             _items.Add(item);
         }
 
