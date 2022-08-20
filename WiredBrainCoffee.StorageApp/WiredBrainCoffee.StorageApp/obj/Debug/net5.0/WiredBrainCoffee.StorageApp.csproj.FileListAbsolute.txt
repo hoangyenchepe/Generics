@@ -3,7 +3,6 @@ C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.Stora
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.runtimeconfig.json
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.runtimeconfig.dev.json
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.dll
-C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\ref\WiredBrainCoffee.StorageApp.dll
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.pdb
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.csproj.AssemblyReference.cache
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,17 @@ C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.Stora
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\ref\WiredBrainCoffee.StorageApp.dll
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.pdb
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.genruntimeconfig.cache
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.csproj.CopyComplete
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\refint\WiredBrainCoffee.StorageApp.dll
