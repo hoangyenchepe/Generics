@@ -17,6 +17,7 @@ namespace WiredBrainCoffee.StorageApp.Responsitories
             _dbSet = _dbContext.Set<T>();
         }
 
+        public event EventHandler<T>? ItemAdded;
         public IEnumerable<T> GetAll()
         {
             return _dbSet.OrderBy(item=> item.Id).ToList();
@@ -30,6 +31,7 @@ namespace WiredBrainCoffee.StorageApp.Responsitories
         public void Add(T item)
         {
             _dbSet.Add(item);
+            ItemAdded?.Invoke(this,item);
         }
 
         public void Save()

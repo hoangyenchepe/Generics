@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EmvrMoZoSH8he2AVXhHhBgTlTRZScWpKU7EBLd4saPNk2rWyiKvXCbH+sXH8MGdPFHQPrHRfj8IoUCt0QGAf/g==",
+  "dgSpecHash": "AZbkBDYs10f/cTPEzbgXjqO0hc39WvhmP8MzoietkK9tSH16KGBtjqqe1B6HG6OqIHdG4Cg4EeMlKA3a0KPrpg==",
   "success": true,
   "projectFilePath": "C:\\Yen\\Personal\\Code\\Generics\\WiredBrainCoffee.StorageApp\\WiredBrainCoffee.StorageApp\\WiredBrainCoffee.StorageApp.csproj",
   "expectedPackageFiles": [
@@ -18,8 +18,7 @@
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

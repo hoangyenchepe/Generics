@@ -26,4 +26,4 @@ C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.Stora
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.csproj.CopyComplete
-C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\refint\WiredBrainCoffee.StorageApp.dll
+C:\Yen\Personal\Code\Generics\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\ref\WiredBrainCoffee.StorageApp.dll
