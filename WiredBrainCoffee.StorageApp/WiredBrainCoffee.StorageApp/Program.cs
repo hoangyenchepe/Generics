@@ -1,6 +1,7 @@
 ﻿using System;
 using WiredBrainCoffee.StorageApp.Data;
 using WiredBrainCoffee.StorageApp.Entities;
+using WiredBrainCoffee.StorageApp.Repositories;
 using WiredBrainCoffee.StorageApp.Responsitories;
 
 namespace WiredBrainCoffee.StorageApp
@@ -24,7 +25,15 @@ namespace WiredBrainCoffee.StorageApp
 
         private static void AddManagers(IWriteRepository<Manager> managerRepository)
         {
-            managerRepository.Add(new Manager { FirstName = "Manager 1" });
+            var saraManager = new Manager { FirstName = "Manager 1" };
+            var saraManagerCopy = saraManager.Copy();
+            managerRepository.Add(saraManager);
+            if(saraManagerCopy is not null)
+            {
+                saraManagerCopy.FirstName += "_Copy";
+                managerRepository.Add(saraManagerCopy);
+            }
+
             managerRepository.Add(new Manager { FirstName = "Manager 2" });
             managerRepository.Add(new Manager { FirstName = "Manager 3" });
             managerRepository.Save();
@@ -54,9 +63,7 @@ namespace WiredBrainCoffee.StorageApp
                 new Employee { FirstName = "Yen" }
             };
 
-            AddBatch(employeeRepository, employees);
-
-            employeeRepository.Save();
+            employeeRepository.AddBatch(employees);
         }
 
         private static void AddOrganizations(IRepository<Organization> organizationRepository)
@@ -67,21 +74,7 @@ namespace WiredBrainCoffee.StorageApp
                 new Organization { FirstName = "Phong bede" }
             };
 
-            AddBatch(organizationRepository, organizations);
-
-            organizationRepository.Add(new Organization { FirstName = "Susan cute" });
-            organizationRepository.Add(new Organization { FirstName = "Phong bede" });
-            organizationRepository.Add(new Organization { FirstName = "Yen binh thuong" });
-        }
-
-        private static void AddBatch<T>(IWriteRepository<T> repository, T[] items)
-        {
-            foreach (var item in items)
-            {
-                repository.Add(item);
-            }
-
-            repository.Save();
+            RepositoryExtensions.AddBatch(organizationRepository, organizations);
         }
     }
 }
